@@ -16,11 +16,11 @@ Many farms are just waiting to come into well planned action. Good connection be
 
 The community is depending upon you. By using this software you agree to treat other members with due respect, deliver on promises, notify the effected group for changes or loss/ damage/ changes to any food deliveries or dropoffs.  This network is here to assist you in times of personal difficulty, incliment weather, etc.  We are organizing as small work groups to assist forming food hubs with some of the basic materials required to safely and efficiently centralize community food orders
 
-One first task is to construct additional secure insulated or heated / cooled storage areas (sheds) as necessary. With resource efficiency in mind, we are committed to approaches that make use of local resources first. Tinyfood.org seeks to make this a realit.
+One first task is to construct additional secure insulated or heated / cooled storage areas (sheds) as necessary. With resource efficiency in mind, we are committed to approaches that make use of local resources first. Tinyfood.org seeks to make this a reality.
 .
 ## A food hub. What is it?
 
-We are working on free software that uses key elements of the openfoodnetwork.org service popular in  we make use of in delivering features to the OFN Lite.
+We are working on free software that uses key elements of the openfoodnetwork.org service popular in <A href="https://openfoodnetwork.org/ofn-local/open-food-network-australia/">Australia</a>, <A href="https://openfoodnetwork.org/ofn-local/open-food-network-uk/">UK</a>, <A href="https://openfoodnetwork.org/ofn-local/open-food-network-scandinavia/">Scandinavia</a>, <A href="https://openfoodnetwork.org/ofn-local/open-food-network-canada/">Canada</a>, and <A href="https://openfoodnetwork.org/ofn-local/open-food-france/">France</a>. Tinyfood.org makes use of commo features to the OFN Lite.
 
 ## contributing to the tinyfood.org project
 
