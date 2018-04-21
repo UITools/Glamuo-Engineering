@@ -4,10 +4,10 @@ date: 2017-01-04T15:04:10.000Z
 description: We have alot to look forward to. With awakening we've been shaken into action..
 ---
 
-Many food hubs function as simple points of transit for produce from the farmer to the purshaser. Facilitating a hub can help your budget by 10-15% depending upon the hub-farmer agreements reached.
+Many food hubs function as simple points of transit for produce from the farmer (and/or supermarket) to the purchaser. Facilitating a hub can help your budget by 10-15% depending upon the hub-farmer agreements reached.
 
 
-## A well appreciated history of farms
+## Appreciating the history of farms by evisioning a future for farms
 
 Many farms are just waiting to come together into action. Good connection between farmers and the community.
 
