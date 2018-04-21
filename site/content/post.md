@@ -1,7 +1,7 @@
 ---
 title: "How to get started in mentoring a small farmer for this season: start small, grow 2 week crops, repeat"
 date: 2017-01-04T15:04:10.000Z
-description: We have alot to look forward to. With awakening we've been shaken into action..
+description: We have alot to look forward to. With the awakening food renessaince, we've been shaken into action..
 ---
 
 Many food hubs function as simple points of transit for produce from the farmer (and/or supermarket) to the purchaser. Facilitating a hub can help your budget by 10-15% depending upon the hub-farmer agreements reached.
@@ -9,7 +9,7 @@ Many food hubs function as simple points of transit for produce from the farmer 
 
 ## Appreciating the history of farms by evisioning a future for farms
 
-Many farms are just waiting to come together into action. Good connection between farmers and the community.
+Many farms are just waiting to come into well planned action. Good connection between farmers and the community, metorig of ourg farmers, and access to arable land and soils for potted plant gardens is the essece of our shortest checklist.
 
 
 ## What you need to know before committing to running a hub
