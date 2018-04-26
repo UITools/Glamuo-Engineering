@@ -26,12 +26,12 @@ One first task is to construct additional secure insulated or heated / cooled st
 
 We are working on free software that uses key elements of the openfoodnetwork.org service popular in <A href="https://openfoodnetwork.org/ofn-local/open-food-network-australia/">Australia</a>, <A href="https://openfoodnetwork.org/ofn-local/open-food-network-uk/">UK</a>, <A href="https://openfoodnetwork.org/ofn-local/open-food-network-scandinavia/">Scandinavia</a>, <A href="https://openfoodnetwork.org/ofn-local/open-food-network-canada/">Canada</a>, and <A href="https://openfoodnetwork.org/ofn-local/open-food-france/">France</a>. Tinyfood.org makes use of commo features to the OFN Lite.
 
-## contributing to the tinyfood.org project
+## contributing to the TinyFood project
 
 To fuction well, we need to have people willing to regularly participate at different levels.  Mostly people are needed who desire to improve theirs' ad their famil's health b collaboratig with oters i their ow commuities to . 
 
 ostig a food hub is ot a eas 
 
-## before and after family study on effects of healthier food consumption y
+## before and after family study on effects of healthier food consumption
 
 To develop our network, tinyfood.org is conducting a before and after family study to help evaluate how 90 days of improved access to fresh organic and local foods improves human health at the family level.
