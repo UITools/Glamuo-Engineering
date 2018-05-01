@@ -33,7 +33,12 @@ pricing:
   description: >-
     We make it easy to make better food a part of your life. Choose one of Tiny Food's monthly plans to access at your doorstep weekly or every other week. Contact us about more details and payment info.
   plans:
-      plan: Custom
-      price: '?'
+      - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+      items:
+        - 3 lbs of coffee per month
+        - Green or roasted beans"
+        - One or two varieties of beans"
+      plan: Small
+      price: '50'
 ---
 
