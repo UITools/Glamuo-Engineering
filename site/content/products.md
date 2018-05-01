@@ -16,7 +16,7 @@ intro:
         We support small, carefully curated selection of local food tastes and cooking suggestions for every experience level.
     - image: /img/illustrations/tutorials.svg
       text: >
-        Love motivates us to work within our own communities. Th
+        Love motivates us to work within our own communities.
 main:
   heading: Great food, no compromises
   description: >
@@ -31,9 +31,7 @@ full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make better food a part of your life. Choose one of Tiny Food's
-    monthly plans to access at your doorstep weekly or every other
-    week. Contact us about more details and payment info.
+    We make it easy to make better food a part of your life. Choose one of Tiny Food's monthly plans to access at your doorstep weekly or every other week. Contact us about more details and payment info.
   plans:
       plan: Custom
       price: '?'
