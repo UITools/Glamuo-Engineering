@@ -5,27 +5,12 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: How the Tiny Food Works
 description: >-
-      Tiny Food is a resource to help us share what we might have for projects and share labor and ideas in completing those projects well. 
+      Glamuo Engineering Enterprise - Insulation of steamlines, condenser tanks, air ducts, chilled pipes, chilled tanks & boilers.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We seek to mentor young farmers to have a product ready for market, and assist them in managing their small business to success. Please check the food hub page for your area or start one. You can contact us directly for questions.
-    - image: /img/illustrations/coffee-gear.svg
-      text: >
-        We support small, carefully curated selection of local food tastes and cooking suggestions for every experience level.
-    - image: /img/illustrations/tutorials.svg
-      text: >
-        Love motivates us to work within our own communities.
-main:
-  heading: Great food, no compromises
-  description: >
-    We believe successful local farmers and knowledge of our local environments are essetially woven togeter.
-
-testimonials:
-  - author: Greg Willson
-    quote: >-
-      The morning is the best time to reach me for planning and discussion assembly options for green building, thermal system design with water for passive greenhouse design is my big interest right now.
+        We  insulation of steamlines, condenser tanks, air ducts, chilled pipes, chilled tanks & Boilers. Contact us for service.
       
 full_image: /img/products/products-full-width.jpg
 pricing:
