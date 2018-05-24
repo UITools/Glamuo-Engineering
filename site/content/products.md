@@ -3,7 +3,7 @@ title: List your extra items for sale, community projects or trade.
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: How the Tiny Food Works
+heading: Doing Business with Glamuo-Engineering
 description: >-
       Glamuo Engineering Enterprise - Insulation of steamlines, condenser tanks, air ducts, chilled pipes, chilled tanks & boilers.
 intro:
